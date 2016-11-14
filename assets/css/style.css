@@ -287,8 +287,8 @@ ul.navbar-nav {
 .faq-box p { opacity: 0.8; }
 
 .faq-number {
-	display: inline-block; width: 64px; height: 64px; margin: 0 auto; border: 4px solid #e36da1;
-	font-size: 32px; color: #e36da1; line-height: 50px; font-weight: 700;
+	display: inline-block; width: 64px; height: 64px; margin: 0 auto; border: 4px solid #999;
+	font-size: 32px; color: #337ab7; line-height: 50px; font-weight: 700;
 	-moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius: 50%;
 }
 
@@ -313,7 +313,7 @@ footer a:hover, footer a:focus { border-bottom: 1px dotted #e36da1; outline: 0; 
 .footer-contact-info i { padding-right: 10px; font-size: 18px; color: #ccc; vertical-align: text-top; }
 
 .footer-social a { margin-right: 20px; color: #bbb; }
-.footer-social a:hover, .footer-social a:focus { color: #e36da1; border: 0; }
+.footer-social a:hover, .footer-social a:focus { color: #337ab7; border: 0; }
 .footer-social i { font-size: 28px; vertical-align: text-top; }
 
 .footer-copyright {
