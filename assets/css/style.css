@@ -11,7 +11,11 @@ body {
 strong { font-weight: 700; }
 
 a, a:hover, a:focus {
+<<<<<<< HEAD
 	color: #999;
+=======
+	color: #337ab7;
+>>>>>>> 03f5dcb8a2ce32a8b366789bd6d8291ef6cdf64a
 	text-decoration: none;
     -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
 }
